@@ -1,0 +1,2 @@
+# CLI-Agent Bridge
+websockets>=16.1

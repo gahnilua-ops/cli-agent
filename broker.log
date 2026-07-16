@@ -1,0 +1,5 @@
+[broker] listening on wss://0.0.0.0:8765
+[broker] connection from ('127.0.0.1', 37244)
+[broker] cli authenticated (('127.0.0.1', 37244))
+[broker] connection from ('127.0.0.1', 37246)
+[broker] agent authenticated (('127.0.0.1', 37246))
